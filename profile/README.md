@@ -4,6 +4,6 @@
  - Development
  - Technical Analysis
 
-https://bigcointalk.org/
+[Visit Bigcointalk.org](https://bigcointalk.org/)
 
 [Join us on Discord](https://discord.gg/PY5SQ3DXmv)
