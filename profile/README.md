@@ -1,3 +1,3 @@
-A Cryptocurrency Community
+Cryptocurrency Community
 
 https://bigcointalk.org/
