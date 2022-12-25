@@ -1,4 +1,4 @@
-**Cryptocurrency Community for:**
+**Cryptocurrency community for:**
  - Market News and Sentiment
  - Security
  - Development
@@ -9,6 +9,6 @@
 [Join us on Discord](https://discord.gg/PY5SQ3DXmv)
 
 
-**Current Supported projects:**
+**Current supported projects:**
 
 Bitcoin, Ethereum, Ripple, DogeCoin, Cardano, Polygon, Dai, Polkadot, TRON, Litecoin, Shiba Inu, Solana, Uniswap, Avalanche
